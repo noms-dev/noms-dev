@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @noms-dev
+- 👀 I’m interested in food!
+- 🌱 I’m currently learning Flutter :)
+- 💞️ I’m looking to collaborate on app-dev
+- 📫 How to reach me dev.nomsfoods@gmail.com
